@@ -1,0 +1,14 @@
+C:\Users\opilane\source\repos\new-repo\ForPyramid\ForPyramid\obj\Debug\net6.0\ForPyramid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opilane\source\repos\new-repo\ForPyramid\ForPyramid\obj\Debug\net6.0\ForPyramid.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\new-repo\ForPyramid\ForPyramid\obj\Debug\net6.0\ForPyramid.AssemblyInfo.cs
+C:\Users\opilane\source\repos\new-repo\ForPyramid\ForPyramid\obj\Debug\net6.0\ForPyramid.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\new-repo\ForPyramid\ForPyramid\bin\Debug\net6.0\ForPyramid.exe
+C:\Users\opilane\source\repos\new-repo\ForPyramid\ForPyramid\bin\Debug\net6.0\ForPyramid.deps.json
+C:\Users\opilane\source\repos\new-repo\ForPyramid\ForPyramid\bin\Debug\net6.0\ForPyramid.runtimeconfig.json
+C:\Users\opilane\source\repos\new-repo\ForPyramid\ForPyramid\bin\Debug\net6.0\ForPyramid.dll
+C:\Users\opilane\source\repos\new-repo\ForPyramid\ForPyramid\bin\Debug\net6.0\ForPyramid.pdb
+C:\Users\opilane\source\repos\new-repo\ForPyramid\ForPyramid\obj\Debug\net6.0\ForPyramid.dll
+C:\Users\opilane\source\repos\new-repo\ForPyramid\ForPyramid\obj\Debug\net6.0\refint\ForPyramid.dll
+C:\Users\opilane\source\repos\new-repo\ForPyramid\ForPyramid\obj\Debug\net6.0\ForPyramid.pdb
+C:\Users\opilane\source\repos\new-repo\ForPyramid\ForPyramid\obj\Debug\net6.0\ForPyramid.genruntimeconfig.cache
+C:\Users\opilane\source\repos\new-repo\ForPyramid\ForPyramid\obj\Debug\net6.0\ref\ForPyramid.dll
