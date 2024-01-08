@@ -1,0 +1,14 @@
+C:\Users\opilane\source\repos\new-repo\ForLoopTriangle\ForLoopTriangle\bin\Debug\net6.0\ForLoopTriangle.exe
+C:\Users\opilane\source\repos\new-repo\ForLoopTriangle\ForLoopTriangle\bin\Debug\net6.0\ForLoopTriangle.deps.json
+C:\Users\opilane\source\repos\new-repo\ForLoopTriangle\ForLoopTriangle\bin\Debug\net6.0\ForLoopTriangle.runtimeconfig.json
+C:\Users\opilane\source\repos\new-repo\ForLoopTriangle\ForLoopTriangle\bin\Debug\net6.0\ForLoopTriangle.dll
+C:\Users\opilane\source\repos\new-repo\ForLoopTriangle\ForLoopTriangle\bin\Debug\net6.0\ForLoopTriangle.pdb
+C:\Users\opilane\source\repos\new-repo\ForLoopTriangle\ForLoopTriangle\obj\Debug\net6.0\ForLoopTriangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opilane\source\repos\new-repo\ForLoopTriangle\ForLoopTriangle\obj\Debug\net6.0\ForLoopTriangle.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\new-repo\ForLoopTriangle\ForLoopTriangle\obj\Debug\net6.0\ForLoopTriangle.AssemblyInfo.cs
+C:\Users\opilane\source\repos\new-repo\ForLoopTriangle\ForLoopTriangle\obj\Debug\net6.0\ForLoopTriangle.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\new-repo\ForLoopTriangle\ForLoopTriangle\obj\Debug\net6.0\ForLoopTriangle.dll
+C:\Users\opilane\source\repos\new-repo\ForLoopTriangle\ForLoopTriangle\obj\Debug\net6.0\refint\ForLoopTriangle.dll
+C:\Users\opilane\source\repos\new-repo\ForLoopTriangle\ForLoopTriangle\obj\Debug\net6.0\ForLoopTriangle.pdb
+C:\Users\opilane\source\repos\new-repo\ForLoopTriangle\ForLoopTriangle\obj\Debug\net6.0\ForLoopTriangle.genruntimeconfig.cache
+C:\Users\opilane\source\repos\new-repo\ForLoopTriangle\ForLoopTriangle\obj\Debug\net6.0\ref\ForLoopTriangle.dll
