@@ -1,0 +1,14 @@
+C:\Users\opilane\source\repos\new-repo\ForLoopMultiplicationTable\ForLoopMultiplicationTable\bin\Debug\net6.0\ForLoopMultiplicationTable.exe
+C:\Users\opilane\source\repos\new-repo\ForLoopMultiplicationTable\ForLoopMultiplicationTable\bin\Debug\net6.0\ForLoopMultiplicationTable.deps.json
+C:\Users\opilane\source\repos\new-repo\ForLoopMultiplicationTable\ForLoopMultiplicationTable\bin\Debug\net6.0\ForLoopMultiplicationTable.runtimeconfig.json
+C:\Users\opilane\source\repos\new-repo\ForLoopMultiplicationTable\ForLoopMultiplicationTable\bin\Debug\net6.0\ForLoopMultiplicationTable.dll
+C:\Users\opilane\source\repos\new-repo\ForLoopMultiplicationTable\ForLoopMultiplicationTable\bin\Debug\net6.0\ForLoopMultiplicationTable.pdb
+C:\Users\opilane\source\repos\new-repo\ForLoopMultiplicationTable\ForLoopMultiplicationTable\obj\Debug\net6.0\ForLoopMultiplicationTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opilane\source\repos\new-repo\ForLoopMultiplicationTable\ForLoopMultiplicationTable\obj\Debug\net6.0\ForLoopMultiplicationTable.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\new-repo\ForLoopMultiplicationTable\ForLoopMultiplicationTable\obj\Debug\net6.0\ForLoopMultiplicationTable.AssemblyInfo.cs
+C:\Users\opilane\source\repos\new-repo\ForLoopMultiplicationTable\ForLoopMultiplicationTable\obj\Debug\net6.0\ForLoopMultiplicationTable.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\new-repo\ForLoopMultiplicationTable\ForLoopMultiplicationTable\obj\Debug\net6.0\ForLoopMultiplicationTable.dll
+C:\Users\opilane\source\repos\new-repo\ForLoopMultiplicationTable\ForLoopMultiplicationTable\obj\Debug\net6.0\refint\ForLoopMultiplicationTable.dll
+C:\Users\opilane\source\repos\new-repo\ForLoopMultiplicationTable\ForLoopMultiplicationTable\obj\Debug\net6.0\ForLoopMultiplicationTable.pdb
+C:\Users\opilane\source\repos\new-repo\ForLoopMultiplicationTable\ForLoopMultiplicationTable\obj\Debug\net6.0\ForLoopMultiplicationTable.genruntimeconfig.cache
+C:\Users\opilane\source\repos\new-repo\ForLoopMultiplicationTable\ForLoopMultiplicationTable\obj\Debug\net6.0\ref\ForLoopMultiplicationTable.dll
