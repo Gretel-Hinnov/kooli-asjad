@@ -37,6 +37,8 @@
             };
             keyValuePairs.Remove(2);
             keyValuePairs.RemoveAt(0);
+            //eemaldab elemendi ja järelejäänud asjad nimekirjas
+            //järestatakse ümber
 
             foreach (var kvp in keyValuePairs)
             {
