@@ -1,0 +1,14 @@
+C:\Users\opilane\source\repos\kooli-asjad\FileReaderAndWriter\FileReaderAndWriter\bin\Debug\net6.0\FileReaderAndWriter.exe
+C:\Users\opilane\source\repos\kooli-asjad\FileReaderAndWriter\FileReaderAndWriter\bin\Debug\net6.0\FileReaderAndWriter.deps.json
+C:\Users\opilane\source\repos\kooli-asjad\FileReaderAndWriter\FileReaderAndWriter\bin\Debug\net6.0\FileReaderAndWriter.runtimeconfig.json
+C:\Users\opilane\source\repos\kooli-asjad\FileReaderAndWriter\FileReaderAndWriter\bin\Debug\net6.0\FileReaderAndWriter.dll
+C:\Users\opilane\source\repos\kooli-asjad\FileReaderAndWriter\FileReaderAndWriter\bin\Debug\net6.0\FileReaderAndWriter.pdb
+C:\Users\opilane\source\repos\kooli-asjad\FileReaderAndWriter\FileReaderAndWriter\obj\Debug\net6.0\FileReaderAndWriter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opilane\source\repos\kooli-asjad\FileReaderAndWriter\FileReaderAndWriter\obj\Debug\net6.0\FileReaderAndWriter.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\kooli-asjad\FileReaderAndWriter\FileReaderAndWriter\obj\Debug\net6.0\FileReaderAndWriter.AssemblyInfo.cs
+C:\Users\opilane\source\repos\kooli-asjad\FileReaderAndWriter\FileReaderAndWriter\obj\Debug\net6.0\FileReaderAndWriter.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\kooli-asjad\FileReaderAndWriter\FileReaderAndWriter\obj\Debug\net6.0\FileReaderAndWriter.dll
+C:\Users\opilane\source\repos\kooli-asjad\FileReaderAndWriter\FileReaderAndWriter\obj\Debug\net6.0\refint\FileReaderAndWriter.dll
+C:\Users\opilane\source\repos\kooli-asjad\FileReaderAndWriter\FileReaderAndWriter\obj\Debug\net6.0\FileReaderAndWriter.pdb
+C:\Users\opilane\source\repos\kooli-asjad\FileReaderAndWriter\FileReaderAndWriter\obj\Debug\net6.0\FileReaderAndWriter.genruntimeconfig.cache
+C:\Users\opilane\source\repos\kooli-asjad\FileReaderAndWriter\FileReaderAndWriter\obj\Debug\net6.0\ref\FileReaderAndWriter.dll
