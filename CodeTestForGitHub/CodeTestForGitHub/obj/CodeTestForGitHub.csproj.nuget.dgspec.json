@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\opilane\\source\\repos\\kooli-asjad\\CodeTestForGitHub\\CodeTestForGitHub\\CodeTestForGitHub.csproj": {}
+    "C:\\Users\\opilane\\source\\repos\\kooli-asjad\\LINQGroupBy\\kooli-asjad\\CodeTestForGitHub\\CodeTestForGitHub\\CodeTestForGitHub.csproj": {}
   },
   "projects": {
-    "C:\\Users\\opilane\\source\\repos\\kooli-asjad\\CodeTestForGitHub\\CodeTestForGitHub\\CodeTestForGitHub.csproj": {
+    "C:\\Users\\opilane\\source\\repos\\kooli-asjad\\LINQGroupBy\\kooli-asjad\\CodeTestForGitHub\\CodeTestForGitHub\\CodeTestForGitHub.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\opilane\\source\\repos\\kooli-asjad\\CodeTestForGitHub\\CodeTestForGitHub\\CodeTestForGitHub.csproj",
+        "projectUniqueName": "C:\\Users\\opilane\\source\\repos\\kooli-asjad\\LINQGroupBy\\kooli-asjad\\CodeTestForGitHub\\CodeTestForGitHub\\CodeTestForGitHub.csproj",
         "projectName": "CodeTestForGitHub",
-        "projectPath": "C:\\Users\\opilane\\source\\repos\\kooli-asjad\\CodeTestForGitHub\\CodeTestForGitHub\\CodeTestForGitHub.csproj",
+        "projectPath": "C:\\Users\\opilane\\source\\repos\\kooli-asjad\\LINQGroupBy\\kooli-asjad\\CodeTestForGitHub\\CodeTestForGitHub\\CodeTestForGitHub.csproj",
         "packagesPath": "C:\\Users\\opilane\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\opilane\\source\\repos\\kooli-asjad\\CodeTestForGitHub\\CodeTestForGitHub\\obj\\",
+        "outputPath": "C:\\Users\\opilane\\source\\repos\\kooli-asjad\\LINQGroupBy\\kooli-asjad\\CodeTestForGitHub\\CodeTestForGitHub\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
